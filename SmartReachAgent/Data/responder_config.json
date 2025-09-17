@@ -1,0 +1,9 @@
+{
+    "auto_approve": true,
+    "sender_name": "Adil | SDK Ai Marketing",
+    "require_approval_keywords": [
+    "meeting", "schedule", "zoom", "google meet", "call", "video call",
+    "can we talk", "are you free", "book a call", "let's meet", "can we meet", "done"
+],
+    "notification_email": "smaadil688@gmail.com" 
+}

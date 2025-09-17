@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-07-29T06:47:26.480667",
+    "customer_email": "syedmuhammadaadil007@gmail.com",
+    "customer_name": "Syedmuhammadaadil007",
+    "customer_message": "Yes, I am interested. tell me more about this\r\n\r\nOn Tue, Jul 29, 2025 at 6:22 AM TradeXperts <smaadil688@gmail.com> wrote:\r\n\r\n> Hello Adil,\r\n>\r\n> Looking to expand your business or move your stock fast? Welcome to\r\n> TradeXperts, your trusted trade and distribution partner. Whether you're a\r\n> wholesaler, manufacturer, or independent seller, we help you trade your\r\n> products efficiently — from electronics and garments to accessories and\r\n> everyday goods.\r\n>\r\n> With our wide reseller network, strategic market channels, and proven\r\n> selling systems, we connect your products directly to ready buyers. No\r\n> middlemen. No delays. You simply share your inventory — and we handle the\r\n> rest, including marketing, customer management, and delivery.\r\n>\r\n> Our commission? Just 10% per confirmed sale. No upfront cost, no listing\r\n> fees. You only pay when you earn — it's that simple.\r\n>\r\n> Whether you're clearing overstock, launching a new product, or expanding\r\n> your trade reach — we’re the bridge between your business and your next big\r\n> order.\r\n>\r\n> Join hundreds of successful traders who trust us to sell, scale, and grow.\r\n> List your product today and let the trading begin.\r\n> <#m_2060904020094480413_>\r\n>\r\n> Best regards,\r\n> TradeXperts\r\n>",
+    "ai_response": "We help you trade your products efficiently — from electronics and garments to accessories and everyday goods. With our wide reseller network, strategic market channels, and proven selling systems, we connect your products directly to ready buyers. You simply share your inventory — and we handle the rest, including marketing, customer management, and delivery. Our commission is 10% per confirmed sale. No upfront cost, no listing fees. You only pay when you earn.",
+    "needs_human": false,
+    "escalation_reason": null
+  },
+  {
+    "timestamp": "2025-07-29T06:48:49.569053",
+    "customer_email": "syedmuhammadaadil007@gmail.com",
+    "customer_name": "Syedmuhammadaadil007",
+    "customer_message": "ok i meet with you.\r\n\r\nOn Tue, Jul 29, 2025 at 6:47 AM Customer Service <smaadil688@gmail.com>\r\nwrote:\r\n\r\n> Hi Syedmuhammadaadil007,\r\n>\r\n> We help you trade your products efficiently — from electronics and\r\n> garments to accessories and everyday goods. With our wide reseller network,\r\n> strategic market channels, and proven selling systems, we connect your\r\n> products directly to ready buyers. You simply share your inventory — and we\r\n> handle the rest, including marketing, customer management, and delivery.\r\n> Our commission is 10% per confirmed sale. No upfront cost, no listing fees.\r\n> You only pay when you earn.\r\n>\r\n> Regards,\r\n> Customer Service Team\r\n>",
+    "ai_response": null,
+    "needs_human": true,
+    "escalation_reason": "Expecting property name enclosed in double quotes: line 2 column 1 (char 2)"
+  }
+]

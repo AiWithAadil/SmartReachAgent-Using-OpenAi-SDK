@@ -1,6 +1,6 @@
 # 🚀 SmartReach Agent
 
-![SmartReach Agent Banner](./assets/banner.png)
+![SmartReach Agent Banner](./SmartReachAgent/Documentation/email.png)
 
 *An AI-powered email marketing automation system that transforms how businesses manage email outreach*
 

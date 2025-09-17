@@ -1,0 +1,2 @@
+[2025-07-29 06:47:26] AI_RESPONDED | Customer: syedmuhammadaadil007@gmail.com | Subject: Re: Trade Smart, Grow Fast! 🚀🤝
+[2025-07-29 06:48:49] ESCALATED | Customer: syedmuhammadaadil007@gmail.com | Reason: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
